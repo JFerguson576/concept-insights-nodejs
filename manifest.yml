@@ -5,7 +5,7 @@ declared-services:
 applications:
 - services:
   - concept-insights-standard
-  name: concept-insights-nodejs
+  name: employment-law-concept-insights-nodejs
   command: node app.js
   path: .
   memory: 1024M
